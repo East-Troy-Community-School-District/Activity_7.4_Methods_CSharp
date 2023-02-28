@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Nolan Pawelski\Desktop\Shapes\bin\Debug\Shapes.exe
+C:\Users\Nolan Pawelski\Desktop\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Nolan Pawelski\Desktop\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\Shapes\obj\Debug\Shapes.exe
+C:\Users\Nolan Pawelski\Desktop\Shapes\obj\Debug\Shapes.pdb
